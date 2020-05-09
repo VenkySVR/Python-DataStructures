@@ -1,0 +1,640 @@
+****** Quetion paper : 1 ********
+
+Q)  1
+what is the symbol of Pepe Cash ?
+A: DMD	B: BLT	C: PEPECASH
+
+Q)  2
+what is the symbol of Monaco ?
+A: NAV	B: MCO	C: BIX
+
+Q)  3
+what is the symbol of RChain ?
+A: ARDR	B: KMD	C: RHOC
+
+Q)  4
+what is the symbol of SingularDTV ?
+A: XAS	B: SNGLS	C: PAC
+
+Q)  5
+what is the symbol of ReddCoin ?
+A: AGI	B: IGNIS	C: RDD
+
+Q)  6
+what is the symbol of XPlay ?
+A: SUB	B: XPA	C: NXS
+
+Q)  7
+what is the symbol of Qbao ?
+A: LUN	B: QBT	C: CRW
+
+Q)  8
+what is the symbol of Golem ?
+A: IOST	B: GNT	C: PLR
+
+Q)  9
+what is the symbol of Stratis ?
+A: XVG	B: SC	C: STRAT
+
+Q)  10
+what is the symbol of AirSwap ?
+A: BCO	B: AGRS	C: AST
+
+Q)  11
+what is the symbol of Groestlcoin ?
+A: SLS	B: CV	C: GRS
+
+Q)  12
+what is the symbol of VIBE ?
+A: ITC	B: VIBE	C: LEND
+
+Q)  13
+what is the symbol of BridgeCoin ?
+A: SAN	B: AST	C: BCO
+
+Q)  14
+what is the symbol of Zilliqa ?
+A: ZIL	B: BTM	C: DGB
+
+Q)  15
+what is the symbol of DeepOnion ?
+A: SOC	B: BDG	C: ONION
+
+
+
+****** Quetion paper : 2 ********
+
+Q)  1
+what is the symbol of SingularDTV ?
+A: XAS	B: SNGLS	C: PAC
+
+Q)  2
+what is the symbol of Qbao ?
+A: QBT	B: LUN	C: CRW
+
+Q)  3
+what is the symbol of Pepe Cash ?
+A: DMD	B: BLT	C: PEPECASH
+
+Q)  4
+what is the symbol of DeepOnion ?
+A: BDG	B: ONION	C: SOC
+
+Q)  5
+what is the symbol of ReddCoin ?
+A: RDD	B: IGNIS	C: AGI
+
+Q)  6
+what is the symbol of Monaco ?
+A: MCO	B: NAV	C: BIX
+
+Q)  7
+what is the symbol of Stratis ?
+A: STRAT	B: SC	C: XVG
+
+Q)  8
+what is the symbol of RChain ?
+A: ARDR	B: KMD	C: RHOC
+
+Q)  9
+what is the symbol of Golem ?
+A: PLR	B: IOST	C: GNT
+
+Q)  10
+what is the symbol of Zilliqa ?
+A: ZIL	B: BTM	C: DGB
+
+Q)  11
+what is the symbol of Groestlcoin ?
+A: SLS	B: CV	C: GRS
+
+Q)  12
+what is the symbol of AirSwap ?
+A: BCO	B: AGRS	C: AST
+
+Q)  13
+what is the symbol of VIBE ?
+A: ITC	B: VIBE	C: LEND
+
+Q)  14
+what is the symbol of BridgeCoin ?
+A: AST	B: BCO	C: SAN
+
+Q)  15
+what is the symbol of XPlay ?
+A: SUB	B: XPA	C: NXS
+
+
+
+****** Quetion paper : 3 ********
+
+Q)  1
+what is the symbol of Pepe Cash ?
+A: PEPECASH	B: BLT	C: DMD
+
+Q)  2
+what is the symbol of Qbao ?
+A: LUN	B: QBT	C: CRW
+
+Q)  3
+what is the symbol of Groestlcoin ?
+A: SLS	B: CV	C: GRS
+
+Q)  4
+what is the symbol of XPlay ?
+A: SUB	B: XPA	C: NXS
+
+Q)  5
+what is the symbol of Stratis ?
+A: STRAT	B: SC	C: XVG
+
+Q)  6
+what is the symbol of Golem ?
+A: IOST	B: GNT	C: PLR
+
+Q)  7
+what is the symbol of ReddCoin ?
+A: AGI	B: IGNIS	C: RDD
+
+Q)  8
+what is the symbol of RChain ?
+A: ARDR	B: KMD	C: RHOC
+
+Q)  9
+what is the symbol of Monaco ?
+A: BIX	B: NAV	C: MCO
+
+Q)  10
+what is the symbol of VIBE ?
+A: ITC	B: VIBE	C: LEND
+
+Q)  11
+what is the symbol of AirSwap ?
+A: BCO	B: AGRS	C: AST
+
+Q)  12
+what is the symbol of SingularDTV ?
+A: SNGLS	B: XAS	C: PAC
+
+Q)  13
+what is the symbol of BridgeCoin ?
+A: SAN	B: AST	C: BCO
+
+Q)  14
+what is the symbol of DeepOnion ?
+A: SOC	B: BDG	C: ONION
+
+Q)  15
+what is the symbol of Zilliqa ?
+A: DGB	B: BTM	C: ZIL
+
+
+
+****** Quetion paper : 4 ********
+
+Q)  1
+what is the symbol of Pepe Cash ?
+A: DMD	B: BLT	C: PEPECASH
+
+Q)  2
+what is the symbol of XPlay ?
+A: XPA	B: SUB	C: NXS
+
+Q)  3
+what is the symbol of RChain ?
+A: KMD	B: RHOC	C: ARDR
+
+Q)  4
+what is the symbol of Qbao ?
+A: CRW	B: LUN	C: QBT
+
+Q)  5
+what is the symbol of DeepOnion ?
+A: BDG	B: ONION	C: SOC
+
+Q)  6
+what is the symbol of Zilliqa ?
+A: BTM	B: ZIL	C: DGB
+
+Q)  7
+what is the symbol of BridgeCoin ?
+A: BCO	B: AST	C: SAN
+
+Q)  8
+what is the symbol of Golem ?
+A: GNT	B: IOST	C: PLR
+
+Q)  9
+what is the symbol of ReddCoin ?
+A: AGI	B: IGNIS	C: RDD
+
+Q)  10
+what is the symbol of SingularDTV ?
+A: SNGLS	B: XAS	C: PAC
+
+Q)  11
+what is the symbol of AirSwap ?
+A: BCO	B: AGRS	C: AST
+
+Q)  12
+what is the symbol of VIBE ?
+A: VIBE	B: ITC	C: LEND
+
+Q)  13
+what is the symbol of Groestlcoin ?
+A: GRS	B: CV	C: SLS
+
+Q)  14
+what is the symbol of Stratis ?
+A: SC	B: STRAT	C: XVG
+
+Q)  15
+what is the symbol of Monaco ?
+A: MCO	B: NAV	C: BIX
+
+
+
+****** Quetion paper : 5 ********
+
+Q)  1
+what is the symbol of Pepe Cash ?
+A: BLT	B: PEPECASH	C: DMD
+
+Q)  2
+what is the symbol of BridgeCoin ?
+A: BCO	B: AST	C: SAN
+
+Q)  3
+what is the symbol of Groestlcoin ?
+A: SLS	B: CV	C: GRS
+
+Q)  4
+what is the symbol of Monaco ?
+A: MCO	B: NAV	C: BIX
+
+Q)  5
+what is the symbol of XPlay ?
+A: SUB	B: XPA	C: NXS
+
+Q)  6
+what is the symbol of ReddCoin ?
+A: IGNIS	B: RDD	C: AGI
+
+Q)  7
+what is the symbol of Golem ?
+A: PLR	B: IOST	C: GNT
+
+Q)  8
+what is the symbol of SingularDTV ?
+A: PAC	B: XAS	C: SNGLS
+
+Q)  9
+what is the symbol of AirSwap ?
+A: BCO	B: AGRS	C: AST
+
+Q)  10
+what is the symbol of Qbao ?
+A: CRW	B: LUN	C: QBT
+
+Q)  11
+what is the symbol of DeepOnion ?
+A: SOC	B: BDG	C: ONION
+
+Q)  12
+what is the symbol of Zilliqa ?
+A: DGB	B: BTM	C: ZIL
+
+Q)  13
+what is the symbol of RChain ?
+A: KMD	B: RHOC	C: ARDR
+
+Q)  14
+what is the symbol of Stratis ?
+A: SC	B: STRAT	C: XVG
+
+Q)  15
+what is the symbol of VIBE ?
+A: LEND	B: ITC	C: VIBE
+
+
+
+****** Quetion paper : 6 ********
+
+Q)  1
+what is the symbol of XPlay ?
+A: NXS	B: SUB	C: XPA
+
+Q)  2
+what is the symbol of BridgeCoin ?
+A: BCO	B: AST	C: SAN
+
+Q)  3
+what is the symbol of VIBE ?
+A: LEND	B: ITC	C: VIBE
+
+Q)  4
+what is the symbol of Golem ?
+A: PLR	B: IOST	C: GNT
+
+Q)  5
+what is the symbol of Stratis ?
+A: SC	B: STRAT	C: XVG
+
+Q)  6
+what is the symbol of Groestlcoin ?
+A: SLS	B: CV	C: GRS
+
+Q)  7
+what is the symbol of Monaco ?
+A: MCO	B: NAV	C: BIX
+
+Q)  8
+what is the symbol of Zilliqa ?
+A: BTM	B: ZIL	C: DGB
+
+Q)  9
+what is the symbol of Qbao ?
+A: LUN	B: QBT	C: CRW
+
+Q)  10
+what is the symbol of DeepOnion ?
+A: SOC	B: BDG	C: ONION
+
+Q)  11
+what is the symbol of Pepe Cash ?
+A: DMD	B: BLT	C: PEPECASH
+
+Q)  12
+what is the symbol of SingularDTV ?
+A: XAS	B: SNGLS	C: PAC
+
+Q)  13
+what is the symbol of RChain ?
+A: ARDR	B: KMD	C: RHOC
+
+Q)  14
+what is the symbol of AirSwap ?
+A: BCO	B: AGRS	C: AST
+
+Q)  15
+what is the symbol of ReddCoin ?
+A: RDD	B: IGNIS	C: AGI
+
+
+
+****** Quetion paper : 7 ********
+
+Q)  1
+what is the symbol of RChain ?
+A: KMD	B: RHOC	C: ARDR
+
+Q)  2
+what is the symbol of Monaco ?
+A: NAV	B: MCO	C: BIX
+
+Q)  3
+what is the symbol of VIBE ?
+A: ITC	B: VIBE	C: LEND
+
+Q)  4
+what is the symbol of BridgeCoin ?
+A: SAN	B: AST	C: BCO
+
+Q)  5
+what is the symbol of ReddCoin ?
+A: RDD	B: IGNIS	C: AGI
+
+Q)  6
+what is the symbol of Golem ?
+A: PLR	B: IOST	C: GNT
+
+Q)  7
+what is the symbol of AirSwap ?
+A: BCO	B: AGRS	C: AST
+
+Q)  8
+what is the symbol of Zilliqa ?
+A: DGB	B: BTM	C: ZIL
+
+Q)  9
+what is the symbol of Groestlcoin ?
+A: CV	B: GRS	C: SLS
+
+Q)  10
+what is the symbol of SingularDTV ?
+A: SNGLS	B: XAS	C: PAC
+
+Q)  11
+what is the symbol of Pepe Cash ?
+A: DMD	B: BLT	C: PEPECASH
+
+Q)  12
+what is the symbol of Qbao ?
+A: CRW	B: LUN	C: QBT
+
+Q)  13
+what is the symbol of DeepOnion ?
+A: ONION	B: BDG	C: SOC
+
+Q)  14
+what is the symbol of Stratis ?
+A: XVG	B: SC	C: STRAT
+
+Q)  15
+what is the symbol of XPlay ?
+A: NXS	B: SUB	C: XPA
+
+
+
+****** Quetion paper : 8 ********
+
+Q)  1
+what is the symbol of AirSwap ?
+A: AGRS	B: AST	C: BCO
+
+Q)  2
+what is the symbol of VIBE ?
+A: VIBE	B: ITC	C: LEND
+
+Q)  3
+what is the symbol of Groestlcoin ?
+A: CV	B: GRS	C: SLS
+
+Q)  4
+what is the symbol of Pepe Cash ?
+A: DMD	B: BLT	C: PEPECASH
+
+Q)  5
+what is the symbol of ReddCoin ?
+A: IGNIS	B: RDD	C: AGI
+
+Q)  6
+what is the symbol of Monaco ?
+A: BIX	B: NAV	C: MCO
+
+Q)  7
+what is the symbol of Zilliqa ?
+A: ZIL	B: BTM	C: DGB
+
+Q)  8
+what is the symbol of SingularDTV ?
+A: XAS	B: SNGLS	C: PAC
+
+Q)  9
+what is the symbol of DeepOnion ?
+A: BDG	B: ONION	C: SOC
+
+Q)  10
+what is the symbol of Qbao ?
+A: LUN	B: QBT	C: CRW
+
+Q)  11
+what is the symbol of XPlay ?
+A: SUB	B: XPA	C: NXS
+
+Q)  12
+what is the symbol of BridgeCoin ?
+A: AST	B: BCO	C: SAN
+
+Q)  13
+what is the symbol of Stratis ?
+A: XVG	B: SC	C: STRAT
+
+Q)  14
+what is the symbol of RChain ?
+A: KMD	B: RHOC	C: ARDR
+
+Q)  15
+what is the symbol of Golem ?
+A: IOST	B: GNT	C: PLR
+
+
+
+****** Quetion paper : 9 ********
+
+Q)  1
+what is the symbol of SingularDTV ?
+A: XAS	B: SNGLS	C: PAC
+
+Q)  2
+what is the symbol of Groestlcoin ?
+A: GRS	B: CV	C: SLS
+
+Q)  3
+what is the symbol of Monaco ?
+A: MCO	B: NAV	C: BIX
+
+Q)  4
+what is the symbol of ReddCoin ?
+A: IGNIS	B: RDD	C: AGI
+
+Q)  5
+what is the symbol of BridgeCoin ?
+A: AST	B: BCO	C: SAN
+
+Q)  6
+what is the symbol of Golem ?
+A: IOST	B: GNT	C: PLR
+
+Q)  7
+what is the symbol of Stratis ?
+A: STRAT	B: SC	C: XVG
+
+Q)  8
+what is the symbol of VIBE ?
+A: LEND	B: ITC	C: VIBE
+
+Q)  9
+what is the symbol of XPlay ?
+A: NXS	B: SUB	C: XPA
+
+Q)  10
+what is the symbol of AirSwap ?
+A: BCO	B: AGRS	C: AST
+
+Q)  11
+what is the symbol of Qbao ?
+A: LUN	B: QBT	C: CRW
+
+Q)  12
+what is the symbol of DeepOnion ?
+A: SOC	B: BDG	C: ONION
+
+Q)  13
+what is the symbol of Zilliqa ?
+A: DGB	B: BTM	C: ZIL
+
+Q)  14
+what is the symbol of Pepe Cash ?
+A: PEPECASH	B: BLT	C: DMD
+
+Q)  15
+what is the symbol of RChain ?
+A: RHOC	B: KMD	C: ARDR
+
+
+
+****** Quetion paper : 10 ********
+
+Q)  1
+what is the symbol of DeepOnion ?
+A: SOC	B: BDG	C: ONION
+
+Q)  2
+what is the symbol of ReddCoin ?
+A: RDD	B: IGNIS	C: AGI
+
+Q)  3
+what is the symbol of Pepe Cash ?
+A: BLT	B: PEPECASH	C: DMD
+
+Q)  4
+what is the symbol of Golem ?
+A: PLR	B: IOST	C: GNT
+
+Q)  5
+what is the symbol of XPlay ?
+A: NXS	B: SUB	C: XPA
+
+Q)  6
+what is the symbol of Monaco ?
+A: MCO	B: NAV	C: BIX
+
+Q)  7
+what is the symbol of AirSwap ?
+A: AGRS	B: AST	C: BCO
+
+Q)  8
+what is the symbol of VIBE ?
+A: VIBE	B: ITC	C: LEND
+
+Q)  9
+what is the symbol of BridgeCoin ?
+A: SAN	B: AST	C: BCO
+
+Q)  10
+what is the symbol of RChain ?
+A: RHOC	B: KMD	C: ARDR
+
+Q)  11
+what is the symbol of Qbao ?
+A: CRW	B: LUN	C: QBT
+
+Q)  12
+what is the symbol of Groestlcoin ?
+A: CV	B: GRS	C: SLS
+
+Q)  13
+what is the symbol of Stratis ?
+A: STRAT	B: SC	C: XVG
+
+Q)  14
+what is the symbol of SingularDTV ?
+A: SNGLS	B: XAS	C: PAC
+
+Q)  15
+what is the symbol of Zilliqa ?
+A: BTM	B: ZIL	C: DGB
+
+
+

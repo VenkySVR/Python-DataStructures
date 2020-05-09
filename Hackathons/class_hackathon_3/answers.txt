@@ -1,0 +1,190 @@
+****** Quetion paper : 1 key ********
+
+Q)  1	C: PEPECASH
+Q)  2	B: MCO
+Q)  3	C: RHOC
+Q)  4	B: SNGLS
+Q)  5	C: RDD
+Q)  6	B: XPA
+Q)  7	B: QBT
+Q)  8	B: GNT
+Q)  9	C: STRAT
+Q)  10	C: AST
+Q)  11	C: GRS
+Q)  12	B: VIBE
+Q)  13	C: BCO
+Q)  14	A: ZIL
+Q)  15	C: ONION
+
+
+****** Quetion paper : 2 key ********
+
+Q)  1	B: SNGLS
+Q)  2	A: QBT
+Q)  3	C: PEPECASH
+Q)  4	B: ONION
+Q)  5	A: RDD
+Q)  6	A: MCO
+Q)  7	A: STRAT
+Q)  8	C: RHOC
+Q)  9	C: GNT
+Q)  10	A: ZIL
+Q)  11	C: GRS
+Q)  12	C: AST
+Q)  13	B: VIBE
+Q)  14	B: BCO
+Q)  15	B: XPA
+
+
+****** Quetion paper : 3 key ********
+
+Q)  1	A: PEPECASH
+Q)  2	B: QBT
+Q)  3	C: GRS
+Q)  4	B: XPA
+Q)  5	A: STRAT
+Q)  6	B: GNT
+Q)  7	C: RDD
+Q)  8	C: RHOC
+Q)  9	C: MCO
+Q)  10	B: VIBE
+Q)  11	C: AST
+Q)  12	A: SNGLS
+Q)  13	C: BCO
+Q)  14	C: ONION
+Q)  15	C: ZIL
+
+
+****** Quetion paper : 4 key ********
+
+Q)  1	C: PEPECASH
+Q)  2	A: XPA
+Q)  3	B: RHOC
+Q)  4	C: QBT
+Q)  5	B: ONION
+Q)  6	B: ZIL
+Q)  7	A: BCO
+Q)  8	A: GNT
+Q)  9	C: RDD
+Q)  10	A: SNGLS
+Q)  11	C: AST
+Q)  12	A: VIBE
+Q)  13	A: GRS
+Q)  14	B: STRAT
+Q)  15	A: MCO
+
+
+****** Quetion paper : 5 key ********
+
+Q)  1	B: PEPECASH
+Q)  2	A: BCO
+Q)  3	C: GRS
+Q)  4	A: MCO
+Q)  5	B: XPA
+Q)  6	B: RDD
+Q)  7	C: GNT
+Q)  8	C: SNGLS
+Q)  9	C: AST
+Q)  10	C: QBT
+Q)  11	C: ONION
+Q)  12	C: ZIL
+Q)  13	B: RHOC
+Q)  14	B: STRAT
+Q)  15	C: VIBE
+
+
+****** Quetion paper : 6 key ********
+
+Q)  1	C: XPA
+Q)  2	A: BCO
+Q)  3	C: VIBE
+Q)  4	C: GNT
+Q)  5	B: STRAT
+Q)  6	C: GRS
+Q)  7	A: MCO
+Q)  8	B: ZIL
+Q)  9	B: QBT
+Q)  10	C: ONION
+Q)  11	C: PEPECASH
+Q)  12	B: SNGLS
+Q)  13	C: RHOC
+Q)  14	C: AST
+Q)  15	A: RDD
+
+
+****** Quetion paper : 7 key ********
+
+Q)  1	B: RHOC
+Q)  2	B: MCO
+Q)  3	B: VIBE
+Q)  4	C: BCO
+Q)  5	A: RDD
+Q)  6	C: GNT
+Q)  7	C: AST
+Q)  8	C: ZIL
+Q)  9	B: GRS
+Q)  10	A: SNGLS
+Q)  11	C: PEPECASH
+Q)  12	C: QBT
+Q)  13	A: ONION
+Q)  14	C: STRAT
+Q)  15	C: XPA
+
+
+****** Quetion paper : 8 key ********
+
+Q)  1	B: AST
+Q)  2	A: VIBE
+Q)  3	B: GRS
+Q)  4	C: PEPECASH
+Q)  5	B: RDD
+Q)  6	C: MCO
+Q)  7	A: ZIL
+Q)  8	B: SNGLS
+Q)  9	B: ONION
+Q)  10	B: QBT
+Q)  11	B: XPA
+Q)  12	B: BCO
+Q)  13	C: STRAT
+Q)  14	B: RHOC
+Q)  15	B: GNT
+
+
+****** Quetion paper : 9 key ********
+
+Q)  1	B: SNGLS
+Q)  2	A: GRS
+Q)  3	A: MCO
+Q)  4	B: RDD
+Q)  5	B: BCO
+Q)  6	B: GNT
+Q)  7	A: STRAT
+Q)  8	C: VIBE
+Q)  9	C: XPA
+Q)  10	C: AST
+Q)  11	B: QBT
+Q)  12	C: ONION
+Q)  13	C: ZIL
+Q)  14	A: PEPECASH
+Q)  15	A: RHOC
+
+
+****** Quetion paper : 10 key ********
+
+Q)  1	C: ONION
+Q)  2	A: RDD
+Q)  3	B: PEPECASH
+Q)  4	C: GNT
+Q)  5	C: XPA
+Q)  6	A: MCO
+Q)  7	B: AST
+Q)  8	A: VIBE
+Q)  9	C: BCO
+Q)  10	A: RHOC
+Q)  11	C: QBT
+Q)  12	B: GRS
+Q)  13	A: STRAT
+Q)  14	A: SNGLS
+Q)  15	B: ZIL
+
+
